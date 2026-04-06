@@ -62,7 +62,7 @@ The model achieves strong performance across all classes with effective phishing
   [https://kaggle.com/your-model-link](https://www.kaggle.com/models/dharshiyanacc/multiclass-spam-and-phishing-detection)
 
 * 📒 **Training Notebook:**
- [https://kaggle.com/your-notebook-link](https://www.kaggle.com/code/dharshiyanacc/spam-ham-phishing-classification)
+  [https://kaggle.com/your-notebook-link](https://www.kaggle.com/code/dharshiyanacc/spam-ham-phishing-classification)
 
 These resources ensure full reproducibility of the project.
 
