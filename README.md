@@ -56,13 +56,13 @@ The model achieves strong performance across all classes with effective phishing
 ## 🔗 Project Resources (Kaggle Integration)
 
 * 📊 **Dataset:**
-  [https://kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/dharshiyanacc/spam-ham-and-phishing-message-dataset-for-nlp)
+  [https://kaggle.com/My_Dataset-Link](https://www.kaggle.com/datasets/dharshiyanacc/spam-ham-and-phishing-message-dataset-for-nlp)
 
 * 🤖 **Trained Model:**
-  [https://kaggle.com/your-model-link](https://www.kaggle.com/models/dharshiyanacc/multiclass-spam-and-phishing-detection)
+  [https://kaggle.com/My_Model-Link](https://www.kaggle.com/models/dharshiyanacc/multiclass-spam-and-phishing-detection)
 
 * 📒 **Training Notebook:**
-  [https://kaggle.com/your-notebook-link](https://www.kaggle.com/code/dharshiyanacc/spam-ham-phishing-classification)
+  [https://kaggle.com/My-Notebook-Link](https://www.kaggle.com/code/dharshiyanacc/spam-ham-phishing-classification)
 
 These resources ensure full reproducibility of the project.
 
