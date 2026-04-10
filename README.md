@@ -1,5 +1,4 @@
-# 📧 Multiclass Spam and Phishing Message Detection using NLP and Machine Learning
-##(InboxSentinel)
+# 📧 Multiclass Spam and Phishing Message Detection using NLP and Machine Learning ( InboxSentinel )
 
 ## 📌 Project Overview
 
