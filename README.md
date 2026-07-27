@@ -19,6 +19,17 @@ The system uses **Natural Language Processing (NLP)** techniques and **Machine L
 
 ---
 
+## ✨ Project Highlights
+
+- End-to-End NLP Pipeline
+- Multiclass Classification
+- 515,000+ Message Dataset
+- TF-IDF Feature Engineering
+- Logistic Regression Classifier
+- 95.8% Classification Accuracy
+- Streamlit Web Application
+- Kaggle Dataset & Model Published
+
 ## 🎯 Problem Statement
 
 Spam and phishing messages pose significant risks in communication systems. This project aims to build a robust machine learning model that can automatically detect and classify such messages to improve security and filtering systems.
