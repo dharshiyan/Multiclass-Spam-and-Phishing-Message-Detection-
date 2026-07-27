@@ -1,4 +1,11 @@
-# 📧 Multiclass Spam and Phishing Message Detection using NLP and Machine Learning ( InboxSentinel )
+# InboxSentinel
+
+### Multiclass Spam & Phishing Message Detection using Natural Language Processing and Machine Learning
+
+> An end-to-end Machine Learning solution that classifies SMS and text messages into **Ham**, **Spam**, and **Phishing** using NLP techniques and Logistic Regression.
+
+---
+
 
 ## 📌 Project Overview
 
