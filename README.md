@@ -29,7 +29,7 @@ The system uses **Natural Language Processing (NLP)** techniques and **Machine L
 - 95.8% Classification Accuracy
 - Streamlit Web Application
 - Kaggle Dataset & Model Published
-
+---
 ## 🎯 Problem Statement
 
 Spam and phishing messages pose significant risks in communication systems. This project aims to build a robust machine learning model that can automatically detect and classify such messages to improve security and filtering systems.
@@ -56,6 +56,24 @@ Raw Data → Preprocessing → TF-IDF → Model Training → Evaluation → Mode
 ```
 
 ---
+## Key Features
+
+✔ Text Cleaning
+
+✔ Tokenization
+
+✔ Stopword Removal
+
+✔ TF-IDF Vectorization
+
+✔ Multiclass Classification
+
+✔ Real-time Prediction
+
+✔ Model Serialization
+
+✔ Interactive Streamlit Interface
+---
 
 ## 📊 Model Performance
 
@@ -75,6 +93,7 @@ The model achieves strong performance across all classes with effective phishing
 
 * 📊 **Dataset:**
   [https://kaggle.com/My_Dataset-Link](https://www.kaggle.com/datasets/dharshiyanacc/spam-ham-and-phishing-message-dataset-for-nlp)
+  
 
 * 🤖 **Trained Model:**
   [https://kaggle.com/My_Model-Link](https://www.kaggle.com/models/dharshiyanacc/multiclass-spam-and-phishing-detection)
@@ -85,17 +104,34 @@ The model achieves strong performance across all classes with effective phishing
 These resources ensure full reproducibility of the project.
 
 ---
+Dataset Size
+
+• 515,000+ labelled messages
+• 3 Classes
+    - Ham
+    - Spam
+    - Phishing
+---
 
 ## 🛠 Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* NLTK
-* Scikit-learn
-* TF-IDF Vectorizer
-* Logistic Regression
-* Streamlit
+Python
+
+Machine Learning
+    • Scikit-learn
+    • Logistic Regression
+
+Natural Language Processing
+    • NLTK
+    • TF-IDF
+
+Deployment
+    • Streamlit
+
+Utilities
+    • Pandas
+    • NumPy
+    • Pickle
 
 ---
 
@@ -155,6 +191,11 @@ streamlit run app.py
 | "Let's meet tomorrow at 5 PM"                   | Ham        |
 | "Verify your bank account password immediately" | Phishing   |
 
+---## Results
+
+The final Logistic Regression model achieved excellent performance on the test dataset with an overall accuracy of **95.8%**, demonstrating strong generalization capability across all three message categories.
+
+The model successfully distinguishes phishing attempts from legitimate messages while maintaining high precision and recall.
 ---
 
 ## 📈 Future Improvements
@@ -169,7 +210,13 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Machine Learning Project – Spam & Phishing Detection System
+Developed by
+
+**DHARSHIYAN**
+
+Artificial Intelligence & Data Science Undergraduate
+
+Machine Learning | Deep Learning | Computer Vision | NLP
 
 ---
 
