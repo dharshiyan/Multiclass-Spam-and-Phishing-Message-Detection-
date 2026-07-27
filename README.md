@@ -222,4 +222,4 @@ Machine Learning | Deep Learning | Computer Vision | NLP
 
 ## 📜 License
 
-This project is open-source and available for educational purposes.
+MIT License
