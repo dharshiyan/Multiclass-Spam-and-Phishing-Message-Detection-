@@ -56,7 +56,7 @@ Raw Data → Preprocessing → TF-IDF → Model Training → Evaluation → Mode
 ```
 
 ---
-## Key Features
+## 🚀 Key Features
 
 ✔ Text Cleaning
 
@@ -104,34 +104,35 @@ The model achieves strong performance across all classes with effective phishing
 These resources ensure full reproducibility of the project.
 
 ---
-Dataset Size
+## 📊 Dataset
 
-• 515,000+ labelled messages
-• 3 Classes
-    - Ham
-    - Spam
-    - Phishing
+- **Dataset Size:** 515,000+ labelled messages
+- **Classes:** 3
+  - Ham
+  - Spam
+  - Phishing
 ---
 
 ## 🛠 Technologies Used
 
-Python
+### Programming Language
+- Python
 
-Machine Learning
-    • Scikit-learn
-    • Logistic Regression
+### Machine Learning
+- Scikit-learn
+- Logistic Regression
 
-Natural Language Processing
-    • NLTK
-    • TF-IDF
+### Natural Language Processing
+- NLTK
+- TF-IDF Vectorizer
 
-Deployment
-    • Streamlit
+### Deployment
+- Streamlit
 
-Utilities
-    • Pandas
-    • NumPy
-    • Pickle
+### Utilities
+- Pandas
+- NumPy
+- Pickle
 
 ---
 
@@ -165,7 +166,7 @@ spam-phishing-detection/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/spam-phishing-detection.git
+git clone https://github.com/dharshiyan/spam-phishing-detection.git
 cd spam-phishing-detection
 ```
 
@@ -191,7 +192,8 @@ streamlit run app.py
 | "Let's meet tomorrow at 5 PM"                   | Ham        |
 | "Verify your bank account password immediately" | Phishing   |
 
----## Results
+---
+## 📈 Results
 
 The final Logistic Regression model achieved excellent performance on the test dataset with an overall accuracy of **95.8%**, demonstrating strong generalization capability across all three message categories.
 
@@ -222,4 +224,4 @@ Machine Learning | Deep Learning | Computer Vision | NLP
 
 ## 📜 License
 
-MIT License
+This project is licensed under the MIT License.
